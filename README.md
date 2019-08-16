@@ -1,4 +1,4 @@
-# COMPUTER-SCIENCE\
+# COMPUTER-SCIENCE:
 "Computer sciences" redirects here. For the American corporation, see Computer Sciences Corporation.
 large capital lambda	Plot of a quicksort algorithm
 Utah teapot representing computer graphics	Microsoft Tastenmaus mouse representing human-computer interaction
